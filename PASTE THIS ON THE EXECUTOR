@@ -1,0 +1,5 @@
+local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/ewaswdw/CustomKavoThemes/main/KavoCT"))()
+local Window = Library.CreateLib("e", "Christmas") 
+-- THE THEMES ARE, BANANA, DARKVIOLET. TOMATO, SENTINEL, CHRISTMAS, DARKNESS, STONE, CHOCOLATE AND PURPLE.
+
+local test = Window:NewTab("test tab")
